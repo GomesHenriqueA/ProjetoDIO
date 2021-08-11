@@ -11,7 +11,7 @@ namespace ProjetoDIO{
 
             while(opcaoUsuario.ToUpper() != "X"){
                 switch(opcaoUsuario){
-                    case "9":
+                    case "1":
                     ListarContar();
                         break;
                     case "2":
