@@ -1,0 +1,16 @@
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ProjetoDIO.exe
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ProjetoDIO.deps.json
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ProjetoDIO.runtimeconfig.json
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ProjetoDIO.runtimeconfig.dev.json
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ProjetoDIO.dll
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ref\ProjetoDIO.dll
+C:\Users\Henrique\ProjetoDIO\bin\Debug\net5.0\ProjetoDIO.pdb
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.csproj.AssemblyReference.cache
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.AssemblyInfoInputs.cache
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.AssemblyInfo.cs
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.dll
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ref\ProjetoDIO.dll
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.pdb
+C:\Users\Henrique\ProjetoDIO\obj\Debug\net5.0\ProjetoDIO.genruntimeconfig.cache
